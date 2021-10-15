@@ -1,4 +1,4 @@
- # Bootcamp Digital Innovation ONE ( Projeto Site Flex Turismos )
+ # Bootcamp Digital Innovation ONE - Projeto Site Flex Turismos 
  Esse bootcamp é uma parceria entre a Digital Innovation One e a Impulso 10/2021
  
  ## Sobre o curso 
